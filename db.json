@@ -1,0 +1,78 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "O que é React JS",
+      "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+      "descricao": "Como surgiu o react JS? Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele. ",
+      "categoria": "React"
+    },
+    {
+      "id": 2,
+      "titulo": "Se prepare para entrevistas de vagas de Front-End",
+      "url": "https://youtu.be/GEljZeWTVec?si=XdHwF-8bLU5QaFxC",
+      "descricao": "Neste vídeo, vamos fazer uma simulação de entrevista de emprego de uma vaga de Front-End para te ajudar a se preparar para essa etapa do processo seletivo. ",
+      "categoria": "Carreira"
+    },
+    {
+      "id": 3,
+      "titulo": "Git e Github para Sobrevivência",
+      "url": "https://youtu.be/TgC5IU9k_GU?si=uv9niIx5m6Y7BD-z",
+      "descricao": "Guia de uso do Github",
+      "categoria": "Github"
+    },
+    {
+      "id": 4,
+      "titulo": "Como deixar o Layout Responsivo no seu site",
+      "url": "https://youtu.be/kyFiT4ofMwk?si=_CnPkenyBmlFqvHJ",
+      "descricao": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo através do uso de ferramentas de desenvolvedor do seu navegador, o visual studio code e códigos CSS: media screen, container, propriedades CSS e mais.",
+      "categoria": "CSS"
+    },
+    {
+      "id": 5,
+      "titulo": "Curso HTML5 e CSS3 - Módulo 2 de 5",
+      "url": "https://youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&si=C7xehsvRPOTesY7X",
+      "descricao": "O segundo módulo do Curso em Vídeo de HTML5 e CSS3 vai trazer vários conceitos relacionados a design, aplicação de estilos em CSS e a criação de um projeto partindo do zero. Não deixe também de acompanhar o módulo 1 para saber os fundamentos.",
+      "categoria": "CSS"
+    },
+    {
+      "id": 6,
+      "titulo": "All 12 useState & useEffect Mistakes Junior React Developers Still Make in 2024",
+      "url": "https://www.youtube.com/watch?v=-yIsQPp31L0",
+      "descricao": "Dicas do que NÃO fazer com os hooks React",
+      "categoria": "React"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "React",
+      "cor": "#00C86F"
+    },
+    {
+      "id": 2,
+      "nome": "Carreira",
+      "cor": "#36BA98"
+    },
+    {
+      "id": 3,
+      "nome": "Github",
+      "cor": "#E9C46A"
+    },
+    {
+      "id": 4,
+      "nome": "CSS",
+      "cor": "#071952"
+    },
+    {
+      "id": 5,
+      "nome": "React",
+      "cor": "#973131"
+    },
+    {
+      "id": 6,
+      "nome": "React",
+      "cor": "#059212"
+    }
+  ]
+}
