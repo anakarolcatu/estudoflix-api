@@ -3,7 +3,7 @@
     {
       "id": 1,
       "titulo": "O que é React JS",
-      "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0",
+      "url": "https://www.youtube.com/embed/6IuQUgeDPg0?si=-N5MNOxkwzYpFz7_",
       "descricao": "Como surgiu o react JS? Afinal, o que é React JS? Neste vídeo, Vanessa Tonini e Mario Souto explicam isto para você falando sobre como esta ferramenta surgiu, para que ela serve, quais são suas aplicações e relação com outras ferramentas e como começar a trabalhar com ele. ",
       "categoria": "React"
     },
