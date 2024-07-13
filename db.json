@@ -10,35 +10,35 @@
     {
       "id": 2,
       "titulo": "Se prepare para entrevistas de vagas de Front-End",
-      "url": "https://youtu.be/GEljZeWTVec?si=XdHwF-8bLU5QaFxC",
+      "url": "https://www.youtube.com/embed/GEljZeWTVec?si=PJN9RgmxHmbjDSrm",
       "descricao": "Neste vídeo, vamos fazer uma simulação de entrevista de emprego de uma vaga de Front-End para te ajudar a se preparar para essa etapa do processo seletivo. ",
       "categoria": "Carreira"
     },
     {
       "id": 3,
       "titulo": "Git e Github para Sobrevivência",
-      "url": "https://youtu.be/TgC5IU9k_GU?si=uv9niIx5m6Y7BD-z",
+      "url": "https://www.youtube.com/embed/TgC5IU9k_GU?si=Z1Dkd6bmv0VUkjjo",
       "descricao": "Guia de uso do Github",
       "categoria": "Github"
     },
     {
       "id": 4,
       "titulo": "Como deixar o Layout Responsivo no seu site",
-      "url": "https://youtu.be/kyFiT4ofMwk?si=_CnPkenyBmlFqvHJ",
+      "url": "https://www.youtube.com/embed/kyFiT4ofMwk?si=JQ68CwLQNdMxd06f",
       "descricao": "Aprenda responsividade na prática com este tutorial sobre como transformar seu site num layout responsivo através do uso de ferramentas de desenvolvedor do seu navegador, o visual studio code e códigos CSS: media screen, container, propriedades CSS e mais.",
       "categoria": "CSS"
     },
     {
       "id": 5,
       "titulo": "Curso HTML5 e CSS3 - Módulo 2 de 5",
-      "url": "https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=1",
+      "url": "https://www.youtube.com/embed/vPNIAJ9B4hg?si=FYCrrKkPG8E5fDTR",
       "descricao": "O segundo módulo do Curso em Vídeo de HTML5 e CSS3 vai trazer vários conceitos relacionados a design, aplicação de estilos em CSS e a criação de um projeto partindo do zero. Não deixe também de acompanhar o módulo 1 para saber os fundamentos.",
       "categoria": "CSS"
     },
     {
       "id": 6,
       "titulo": "All 12 useState & useEffect Mistakes Junior React Developers Still Make in 2024",
-      "url": "https://www.youtube.com/watch?v=-yIsQPp31L0",
+      "url": "https://www.youtube.com/embed/-yIsQPp31L0?si=s2fBz7uC7zHQjJ_1",
       "descricao": "Dicas do que NÃO fazer com os hooks React",
       "categoria": "React"
     }
